@@ -1,0 +1,108 @@
+2021-12-17 15:12:359 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-17 15:12:658 INFO  Homepage :29 - Mouse hover on By+Sell tab  element [[ChromeDriver: chrome on WINDOWS (dab8d6bc55a726d2107cf6d269f02055)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-17 15:12:664 INFO  Homepage :35 - Mouse hover and click on Search Cars element [[ChromeDriver: chrome on WINDOWS (dab8d6bc55a726d2107cf6d269f02055)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-17 15:12:47 INFO  NewAndUsedCarPage :42 - Getting New & Used Car Search text from element [[ChromeDriver: chrome on WINDOWS (dab8d6bc55a726d2107cf6d269f02055)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2021-12-17 15:12:668 INFO  NewAndUsedCarPage :49 - Selecting Car Make form drop down menu list of select element [[ChromeDriver: chrome on WINDOWS (dab8d6bc55a726d2107cf6d269f02055)] -> xpath: //select[@id='makes']]
+2021-12-17 15:12:898 INFO  NewAndUsedCarPage :55 - Selecting Car Model form drop down menu list of select element [[ChromeDriver: chrome on WINDOWS (dab8d6bc55a726d2107cf6d269f02055)] -> xpath: //select[@id='models']]
+2021-12-17 15:12:94 INFO  NewAndUsedCarPage :61 - Selecting Car Location form drop down menu list of select element [[ChromeDriver: chrome on WINDOWS (dab8d6bc55a726d2107cf6d269f02055)] -> xpath: //select[@id='locations']]
+2021-12-17 15:12:314 INFO  NewAndUsedCarPage :67 - Selecting Car Price form drop down menu list of select element [[ChromeDriver: chrome on WINDOWS (dab8d6bc55a726d2107cf6d269f02055)] -> xpath: //select[@id='priceTo']]
+2021-12-17 15:12:420 INFO  NewAndUsedCarPage :73 - Clicking on Find My Next Car button element Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-17 15:12:192 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-17 16:12:974 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-17 16:12:26 INFO  Homepage :29 - Mouse hover on By+Sell tab  element [[ChromeDriver: chrome on WINDOWS (4aef87edae58c833f7b2b7654e2c77af)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-17 16:12:82 INFO  Homepage :35 - Mouse hover and click on Search Cars element [[ChromeDriver: chrome on WINDOWS (4aef87edae58c833f7b2b7654e2c77af)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-17 16:12:122 INFO  NewAndUsedCarPage :42 - Getting New & Used Car Search text from element [[ChromeDriver: chrome on WINDOWS (4aef87edae58c833f7b2b7654e2c77af)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2021-12-17 16:12:635 INFO  NewAndUsedCarPage :49 - Selecting Car Make form drop down menu list of select element [[ChromeDriver: chrome on WINDOWS (4aef87edae58c833f7b2b7654e2c77af)] -> xpath: //select[@id='makes']]
+2021-12-17 16:12:861 INFO  NewAndUsedCarPage :55 - Selecting Car Model form drop down menu list of select element [[ChromeDriver: chrome on WINDOWS (4aef87edae58c833f7b2b7654e2c77af)] -> xpath: //select[@id='models']]
+2021-12-17 16:12:26 INFO  NewAndUsedCarPage :61 - Selecting Car Location form drop down menu list of select element [[ChromeDriver: chrome on WINDOWS (4aef87edae58c833f7b2b7654e2c77af)] -> xpath: //select[@id='locations']]
+2021-12-17 16:12:195 INFO  NewAndUsedCarPage :67 - Selecting Car Price form drop down menu list of select element [[ChromeDriver: chrome on WINDOWS (4aef87edae58c833f7b2b7654e2c77af)] -> xpath: //select[@id='priceTo']]
+2021-12-17 16:12:609 INFO  NewAndUsedCarPage :73 - Clicking on Find My Next Car button element Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-17 16:12:482 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-17 16:12:736 INFO  Homepage :29 - Mouse hover on By+Sell tab  element [[ChromeDriver: chrome on WINDOWS (37b30558e6b83a11ed24d6a3c1a504d5)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-17 16:12:870 INFO  Homepage :35 - Mouse hover and click on Search Cars element [[ChromeDriver: chrome on WINDOWS (37b30558e6b83a11ed24d6a3c1a504d5)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-17 16:12:289 INFO  NewAndUsedCarPage :42 - Getting New & Used Car Search text from element [[ChromeDriver: chrome on WINDOWS (37b30558e6b83a11ed24d6a3c1a504d5)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2021-12-17 16:12:600 INFO  NewAndUsedCarPage :49 - Selecting Car Make form drop down menu list of select element [[ChromeDriver: chrome on WINDOWS (37b30558e6b83a11ed24d6a3c1a504d5)] -> xpath: //select[@id='makes']]
+2021-12-17 16:12:824 INFO  NewAndUsedCarPage :55 - Selecting Car Model form drop down menu list of select element [[ChromeDriver: chrome on WINDOWS (37b30558e6b83a11ed24d6a3c1a504d5)] -> xpath: //select[@id='models']]
+2021-12-17 16:12:991 INFO  NewAndUsedCarPage :61 - Selecting Car Location form drop down menu list of select element [[ChromeDriver: chrome on WINDOWS (37b30558e6b83a11ed24d6a3c1a504d5)] -> xpath: //select[@id='locations']]
+2021-12-17 16:12:166 INFO  NewAndUsedCarPage :67 - Selecting Car Price form drop down menu list of select element [[ChromeDriver: chrome on WINDOWS (37b30558e6b83a11ed24d6a3c1a504d5)] -> xpath: //select[@id='priceTo']]
+2021-12-17 16:12:291 INFO  NewAndUsedCarPage :73 - Clicking on Find My Next Car button element Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-17 16:12:461 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-17 16:12:951 INFO  Homepage :29 - Mouse hover on By+Sell tab  element [[ChromeDriver: chrome on WINDOWS (4a627ea2b797b4b906b72d1005cd6f73)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-17 16:12:884 INFO  Homepage :35 - Mouse hover and click on Search Cars element [[ChromeDriver: chrome on WINDOWS (4a627ea2b797b4b906b72d1005cd6f73)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-17 16:12:181 INFO  NewAndUsedCarPage :42 - Getting New & Used Car Search text from element [[ChromeDriver: chrome on WINDOWS (4a627ea2b797b4b906b72d1005cd6f73)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2021-12-17 16:12:401 INFO  NewAndUsedCarPage :49 - Selecting Car Make form drop down menu list of select element [[ChromeDriver: chrome on WINDOWS (4a627ea2b797b4b906b72d1005cd6f73)] -> xpath: //select[@id='makes']]
+2021-12-17 16:12:569 INFO  NewAndUsedCarPage :55 - Selecting Car Model form drop down menu list of select element [[ChromeDriver: chrome on WINDOWS (4a627ea2b797b4b906b72d1005cd6f73)] -> xpath: //select[@id='models']]
+2021-12-17 16:12:697 INFO  NewAndUsedCarPage :61 - Selecting Car Location form drop down menu list of select element [[ChromeDriver: chrome on WINDOWS (4a627ea2b797b4b906b72d1005cd6f73)] -> xpath: //select[@id='locations']]
+2021-12-17 16:12:826 INFO  NewAndUsedCarPage :67 - Selecting Car Price form drop down menu list of select element [[ChromeDriver: chrome on WINDOWS (4a627ea2b797b4b906b72d1005cd6f73)] -> xpath: //select[@id='priceTo']]
+2021-12-17 16:12:346 INFO  NewAndUsedCarPage :73 - Clicking on Find My Next Car button element Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-17 16:12:825 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-17 16:12:724 INFO  Homepage :29 - Mouse hover on By+Sell tab  element [[ChromeDriver: chrome on WINDOWS (8a595cc8bb365beac074cb8742d53a84)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-17 16:12:621 INFO  Homepage :35 - Mouse hover and click on Search Cars element [[ChromeDriver: chrome on WINDOWS (8a595cc8bb365beac074cb8742d53a84)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-17 16:12:259 INFO  NewAndUsedCarPage :42 - Getting New & Used Car Search text from element [[ChromeDriver: chrome on WINDOWS (8a595cc8bb365beac074cb8742d53a84)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2021-12-17 16:12:485 INFO  NewAndUsedCarPage :49 - Selecting Car Make form drop down menu list of select element [[ChromeDriver: chrome on WINDOWS (8a595cc8bb365beac074cb8742d53a84)] -> xpath: //select[@id='makes']]
+2021-12-17 16:12:862 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-17 16:12:755 INFO  Homepage :29 - Mouse hover on By+Sell tab  element [[ChromeDriver: chrome on WINDOWS (0b8d4a92674b76b045c28f148fd3129c)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-17 16:12:175 INFO  Homepage :35 - Mouse hover and click on Search Cars element [[ChromeDriver: chrome on WINDOWS (0b8d4a92674b76b045c28f148fd3129c)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-17 16:12:483 INFO  NewAndUsedCarPage :42 - Getting New & Used Car Search text from element [[ChromeDriver: chrome on WINDOWS (0b8d4a92674b76b045c28f148fd3129c)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2021-12-17 16:12:962 INFO  NewAndUsedCarPage :49 - Selecting Car Make form drop down menu list of select element [[ChromeDriver: chrome on WINDOWS (0b8d4a92674b76b045c28f148fd3129c)] -> xpath: //select[@id='makes']]
+2021-12-17 16:12:487 INFO  NewAndUsedCarPage :55 - Selecting Car Model form drop down menu list of select element [[ChromeDriver: chrome on WINDOWS (0b8d4a92674b76b045c28f148fd3129c)] -> xpath: //select[@id='models']]
+2021-12-17 16:12:646 INFO  NewAndUsedCarPage :61 - Selecting Car Location form drop down menu list of select element [[ChromeDriver: chrome on WINDOWS (0b8d4a92674b76b045c28f148fd3129c)] -> xpath: //select[@id='locations']]
+2021-12-17 16:12:801 INFO  NewAndUsedCarPage :67 - Selecting Car Price form drop down menu list of select element [[ChromeDriver: chrome on WINDOWS (0b8d4a92674b76b045c28f148fd3129c)] -> xpath: //select[@id='priceTo']]
+2021-12-17 16:12:919 INFO  NewAndUsedCarPage :73 - Clicking on Find My Next Car button element Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-17 16:12:269 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-17 16:12:989 INFO  Homepage :29 - Mouse hover on By+Sell tab  element [[ChromeDriver: chrome on WINDOWS (3182482cd9eee449baceed9c639c83b7)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-17 16:12:208 INFO  Homepage :35 - Mouse hover and click on Search Cars element [[ChromeDriver: chrome on WINDOWS (3182482cd9eee449baceed9c639c83b7)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-17 16:12:598 INFO  NewAndUsedCarPage :42 - Getting New & Used Car Search text from element [[ChromeDriver: chrome on WINDOWS (3182482cd9eee449baceed9c639c83b7)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2021-12-17 16:12:837 INFO  NewAndUsedCarPage :49 - Selecting Car Make form drop down menu list of select element [[ChromeDriver: chrome on WINDOWS (3182482cd9eee449baceed9c639c83b7)] -> xpath: //select[@id='makes']]
+2021-12-17 16:12:238 INFO  NewAndUsedCarPage :55 - Selecting Car Model form drop down menu list of select element [[ChromeDriver: chrome on WINDOWS (3182482cd9eee449baceed9c639c83b7)] -> xpath: //select[@id='models']]
+2021-12-17 16:12:388 INFO  NewAndUsedCarPage :61 - Selecting Car Location form drop down menu list of select element [[ChromeDriver: chrome on WINDOWS (3182482cd9eee449baceed9c639c83b7)] -> xpath: //select[@id='locations']]
+2021-12-17 16:12:551 INFO  NewAndUsedCarPage :67 - Selecting Car Price form drop down menu list of select element [[ChromeDriver: chrome on WINDOWS (3182482cd9eee449baceed9c639c83b7)] -> xpath: //select[@id='priceTo']]
+2021-12-17 16:12:657 INFO  NewAndUsedCarPage :73 - Clicking on Find My Next Car button element Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-17 16:12:847 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-17 21:12:83 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-17 21:12:169 INFO  Homepage :29 - Mouse hover on By+Sell tab  element [[ChromeDriver: chrome on WINDOWS (f4a9886083064d0d6b0aa3a7acf85c71)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-17 21:12:409 INFO  Homepage :35 - Mouse hover and click on Search Cars element [[ChromeDriver: chrome on WINDOWS (f4a9886083064d0d6b0aa3a7acf85c71)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-17 21:12:782 INFO  NewAndUsedCarPage :42 - Getting New & Used Car Search text from element [[ChromeDriver: chrome on WINDOWS (f4a9886083064d0d6b0aa3a7acf85c71)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2021-12-17 21:12:193 INFO  NewAndUsedCarPage :49 - Selecting Car Make form drop down menu list of select element [[ChromeDriver: chrome on WINDOWS (f4a9886083064d0d6b0aa3a7acf85c71)] -> xpath: //select[@id='makes']]
+2021-12-17 21:12:405 INFO  NewAndUsedCarPage :55 - Selecting Car Model form drop down menu list of select element [[ChromeDriver: chrome on WINDOWS (f4a9886083064d0d6b0aa3a7acf85c71)] -> xpath: //select[@id='models']]
+2021-12-17 21:12:600 INFO  NewAndUsedCarPage :61 - Selecting Car Location form drop down menu list of select element [[ChromeDriver: chrome on WINDOWS (f4a9886083064d0d6b0aa3a7acf85c71)] -> xpath: //select[@id='locations']]
+2021-12-17 21:12:812 INFO  NewAndUsedCarPage :67 - Selecting Car Price form drop down menu list of select element [[ChromeDriver: chrome on WINDOWS (f4a9886083064d0d6b0aa3a7acf85c71)] -> xpath: //select[@id='priceTo']]
+2021-12-17 21:12:251 INFO  NewAndUsedCarPage :73 - Clicking on Find My Next Car button element Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-17 21:12:319 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-17 21:12:549 INFO  Homepage :29 - Mouse hover on By+Sell tab  element [[ChromeDriver: chrome on WINDOWS (2a05b578bbf7e7ac741df6070bff964e)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-17 21:12:510 INFO  Homepage :35 - Mouse hover and click on Search Cars element [[ChromeDriver: chrome on WINDOWS (2a05b578bbf7e7ac741df6070bff964e)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-17 21:12:890 INFO  NewAndUsedCarPage :42 - Getting New & Used Car Search text from element [[ChromeDriver: chrome on WINDOWS (2a05b578bbf7e7ac741df6070bff964e)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2021-12-17 21:12:395 INFO  NewAndUsedCarPage :49 - Selecting Car Make form drop down menu list of select element [[ChromeDriver: chrome on WINDOWS (2a05b578bbf7e7ac741df6070bff964e)] -> xpath: //select[@id='makes']]
+2021-12-17 21:12:629 INFO  NewAndUsedCarPage :55 - Selecting Car Model form drop down menu list of select element [[ChromeDriver: chrome on WINDOWS (2a05b578bbf7e7ac741df6070bff964e)] -> xpath: //select[@id='models']]
+2021-12-17 21:12:871 INFO  NewAndUsedCarPage :61 - Selecting Car Location form drop down menu list of select element [[ChromeDriver: chrome on WINDOWS (2a05b578bbf7e7ac741df6070bff964e)] -> xpath: //select[@id='locations']]
+2021-12-17 21:12:127 INFO  NewAndUsedCarPage :67 - Selecting Car Price form drop down menu list of select element [[ChromeDriver: chrome on WINDOWS (2a05b578bbf7e7ac741df6070bff964e)] -> xpath: //select[@id='priceTo']]
+2021-12-17 21:12:968 INFO  NewAndUsedCarPage :73 - Clicking on Find My Next Car button element Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-17 21:12:18 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-17 21:12:163 INFO  Homepage :29 - Mouse hover on By+Sell tab  element [[ChromeDriver: chrome on WINDOWS (6b1837d5e902db32604f9bfe0750732f)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-17 21:12:251 INFO  Homepage :35 - Mouse hover and click on Search Cars element [[ChromeDriver: chrome on WINDOWS (6b1837d5e902db32604f9bfe0750732f)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-17 21:12:888 INFO  NewAndUsedCarPage :42 - Getting New & Used Car Search text from element [[ChromeDriver: chrome on WINDOWS (6b1837d5e902db32604f9bfe0750732f)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2021-12-17 21:12:671 INFO  NewAndUsedCarPage :49 - Selecting Car Make form drop down menu list of select element [[ChromeDriver: chrome on WINDOWS (6b1837d5e902db32604f9bfe0750732f)] -> xpath: //select[@id='makes']]
+2021-12-17 21:12:89 INFO  NewAndUsedCarPage :55 - Selecting Car Model form drop down menu list of select element [[ChromeDriver: chrome on WINDOWS (6b1837d5e902db32604f9bfe0750732f)] -> xpath: //select[@id='models']]
+2021-12-17 21:12:320 INFO  NewAndUsedCarPage :61 - Selecting Car Location form drop down menu list of select element [[ChromeDriver: chrome on WINDOWS (6b1837d5e902db32604f9bfe0750732f)] -> xpath: //select[@id='locations']]
+2021-12-17 21:12:507 INFO  NewAndUsedCarPage :67 - Selecting Car Price form drop down menu list of select element [[ChromeDriver: chrome on WINDOWS (6b1837d5e902db32604f9bfe0750732f)] -> xpath: //select[@id='priceTo']]
+2021-12-17 21:12:622 INFO  NewAndUsedCarPage :73 - Clicking on Find My Next Car button element Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-17 21:12:841 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-17 21:12:849 INFO  Homepage :29 - Mouse hover on By+Sell tab  element [[ChromeDriver: chrome on WINDOWS (4c4e9cfa1de0b5bc228770f008df2241)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-17 21:12:222 INFO  Homepage :35 - Mouse hover and click on Search Cars element [[ChromeDriver: chrome on WINDOWS (4c4e9cfa1de0b5bc228770f008df2241)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-17 21:12:366 INFO  NewAndUsedCarPage :42 - Getting New & Used Car Search text from element [[ChromeDriver: chrome on WINDOWS (4c4e9cfa1de0b5bc228770f008df2241)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2021-12-17 21:12:302 INFO  NewAndUsedCarPage :49 - Selecting Car Make form drop down menu list of select element [[ChromeDriver: chrome on WINDOWS (4c4e9cfa1de0b5bc228770f008df2241)] -> xpath: //select[@id='makes']]
+2021-12-17 21:12:62 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-17 21:12:326 INFO  Homepage :29 - Mouse hover on By+Sell tab  element [[ChromeDriver: chrome on WINDOWS (9683fb966d7ee1cf51fe33252fdf2b35)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-17 21:12:201 INFO  Homepage :35 - Mouse hover and click on Search Cars element [[ChromeDriver: chrome on WINDOWS (9683fb966d7ee1cf51fe33252fdf2b35)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-17 21:12:653 INFO  NewAndUsedCarPage :42 - Getting New & Used Car Search text from element [[ChromeDriver: chrome on WINDOWS (9683fb966d7ee1cf51fe33252fdf2b35)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2021-12-17 21:12:190 INFO  NewAndUsedCarPage :49 - Selecting Car Make form drop down menu list of select element [[ChromeDriver: chrome on WINDOWS (9683fb966d7ee1cf51fe33252fdf2b35)] -> xpath: //select[@id='makes']]
+2021-12-17 21:12:260 INFO  NewAndUsedCarPage :55 - Selecting Car Model form drop down menu list of select element [[ChromeDriver: chrome on WINDOWS (9683fb966d7ee1cf51fe33252fdf2b35)] -> xpath: //select[@id='models']]
+2021-12-17 21:12:565 INFO  NewAndUsedCarPage :61 - Selecting Car Location form drop down menu list of select element [[ChromeDriver: chrome on WINDOWS (9683fb966d7ee1cf51fe33252fdf2b35)] -> xpath: //select[@id='locations']]
+2021-12-17 21:12:796 INFO  NewAndUsedCarPage :67 - Selecting Car Price form drop down menu list of select element [[ChromeDriver: chrome on WINDOWS (9683fb966d7ee1cf51fe33252fdf2b35)] -> xpath: //select[@id='priceTo']]
+2021-12-17 21:12:193 INFO  NewAndUsedCarPage :73 - Clicking on Find My Next Car button element Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-17 21:12:256 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-17 21:12:613 INFO  Homepage :29 - Mouse hover on By+Sell tab  element [[ChromeDriver: chrome on WINDOWS (bc1c6657c83653e62ac26143b819e92b)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-17 21:12:105 INFO  Homepage :35 - Mouse hover and click on Search Cars element [[ChromeDriver: chrome on WINDOWS (bc1c6657c83653e62ac26143b819e92b)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-17 21:12:449 INFO  NewAndUsedCarPage :42 - Getting New & Used Car Search text from element [[ChromeDriver: chrome on WINDOWS (bc1c6657c83653e62ac26143b819e92b)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2021-12-17 21:12:80 INFO  NewAndUsedCarPage :49 - Selecting Car Make form drop down menu list of select element Proxy element for: DefaultElementLocator 'By.xpath: //select[@id='makes']'
+2021-12-17 21:12:249 INFO  ManageDriver :32 - Launching chrome browser
